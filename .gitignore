@@ -1,21 +1,10 @@
-# File rahasia / kredensial
 .env
-
-# Virtual Environment Python
-.venv312/
 .venv/
+.venv312/
 venv/
-env/
-
-# File cache Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Pengaturan IDE / Editor
-.vscode/
-.idea/
-
 build/
 dist/
 *.spec
+.vscode/
